@@ -1,3 +1,14 @@
 .impar{
     background-color: palevioletred;
 }
+#dois{
+    color: blue;
+    font-size: 36px;
+
+}
+#quatro{
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+
+}
